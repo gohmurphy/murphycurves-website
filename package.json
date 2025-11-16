@@ -1,0 +1,33 @@
+{
+  "name": "murphys-curves-flng-suite",
+  "version": "1.0.0",
+  "description": "Professional engineering calculation suite for FLNG operations",
+  "main": "index.html",
+  "scripts": {
+    "start": "echo 'Static site - open index.html in browser'",
+    "dev": "netlify dev",
+    "build": "echo 'No build process required for static site'",
+    "test": "echo 'No tests configured'"
+  },
+  "keywords": [
+    "FLNG",
+    "engineering",
+    "mooring",
+    "offshore",
+    "calculations",
+    "maritime"
+  ],
+  "author": "Murphy's Curves",
+  "license": "PROPRIETARY",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gohmurphy/murphys-curves-flng-suite"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "netlify-cli": "^17.0.0"
+  }
+}
