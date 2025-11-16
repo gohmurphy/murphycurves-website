@@ -1,0 +1,21 @@
+{
+    "name": "murphys-curves-netlify-functions",
+    "version": "1.0.0",
+    "description": "Serverless functions for Murphy's Curves FLNG Engineering Suite",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"No tests for functions\""
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    },
+    "dependencies": {},
+    "keywords": [
+        "netlify",
+        "serverless",
+        "flng",
+        "engineering"
+    ],
+    "author": "Murphy's Curves",
+    "license": "PROPRIETARY"
+}
